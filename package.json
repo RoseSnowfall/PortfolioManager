@@ -1,0 +1,15 @@
+{
+  "name": "portfolio_manager",
+  "version": "1.0.0",
+  "description": "portfolio manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "manager"
+  ],
+  "author": "Joyce Yang",
+  "license": "MIT"
+}
